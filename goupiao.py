@@ -9,11 +9,11 @@ from email.mime.text import MIMEText
 from urllib import parse
 
 import ddddocr
+import hzmbus_hash
 import requests
 
 import acw_sc_v2
 import crack_ali
-import hzmbus_hash
 
 # 00 = 成人 , 01 = 儿童
 # 请使用港币支付
